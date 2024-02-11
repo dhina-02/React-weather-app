@@ -1,3 +1,8 @@
+## The wether app preview images
+![tamilnadu](https://github.com/dhina-02/React-weather-app/assets/141801163/49f2931c-efe0-4b7b-a44b-eee261349aed)
+![japan weather](https://github.com/dhina-02/React-weather-app/assets/141801163/06bc9381-b6ac-44e4-9213-dba0ac669d83)
+![canada weather](https://github.com/dhina-02/React-weather-app/assets/141801163/6221f83b-ea1d-40ee-83bc-d1ff44414588)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
